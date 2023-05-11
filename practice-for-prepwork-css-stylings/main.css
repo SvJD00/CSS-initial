@@ -1,0 +1,58 @@
+h1 {
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    padding: 20px 590px;
+    margin: 0px;
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+    background-color: #0000FF;
+    background-size: 800px 200px;
+    border-style: none;
+}
+
+h2 {
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 40px 660px 20px;
+    margin: 20px 20px;
+    font-weight: 500;
+    color: #000000;
+    background-color:;
+}
+
+.body {
+    margin: 0px 0px;
+}
+
+.emph {
+        font-size: 40px;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 40px 550px;
+        margin: 20px 0px 20px;
+}
+
+.speech {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+    padding: 0px 190px;
+    margin: 30px 0px;
+    color: #000000;
+    background-color: hsl(0, 0%, 100%);
+}
+
+.logo {
+    background-size: cover;
+    background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
+    background-color: ;
+    height: 100px;
+    width: 100px;
+    padding: 20px 20px;
+    margin: 0px 840px;
+}
